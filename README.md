@@ -1,2 +1,2 @@
-# class6
+# class_6
 Html css project
